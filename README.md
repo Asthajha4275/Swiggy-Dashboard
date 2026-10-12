@@ -75,3 +75,10 @@ Microsoft Excel (Pivot Tables, Pivot Charts, Slicers, map chart)
 
 ## How to Run
 Open `Swiggy_Raw_Data_Excel.xlsx` in Excel. The `Swiggy Data` sheet holds the raw data, `Sheet1` and `Sheet2` hold the KPI and chart pivots, and the `Dashboard` sheet shows the final view with slicers.
+
+
+
+## Architecture Diagram
+![Swiggy Architecture](diagram%20(7).png)
+
+# Swiggy Sales Analysis Dashboard
